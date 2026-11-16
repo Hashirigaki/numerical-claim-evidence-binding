@@ -1,0 +1,2 @@
+# Keep frozen research files byte-for-byte identical to the final archive.
+reproducibility/** -text
