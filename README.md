@@ -4,7 +4,7 @@
 Hashirigaki · Independent Researcher  
 Apart AI × Epistemics Research Sprint 2026 · Track 2 — Trust Infrastructure
 
-> **Repository status (2026-11-16 JST):** This README introduces the study. The final reproducibility files are prepared and will be added to this repository. Their presence here should not be assumed until the files appear in the repository.
+> **Repository status (2026-11-16 JST):** The Sprint project was submitted on 2026-11-16 JST. The final research PDF, frozen code and data, audit records, saved BLS source HTML, and per-file checksums are available in [reproducibility/](reproducibility/).
 
 ## Research question
 
@@ -48,17 +48,17 @@ The original evaluated inputs, predictions, and initial annotations were preserv
 
 ## Reproducibility materials
 
-A final archive has been prepared as **`Apart_Epistemics_Track2_Reproducibility_Final.zip`**. Once uploaded, it includes the following structure:
+The final reproducibility package, distributed as **`Apart_Epistemics_Track2_Reproducibility_Final.zip`**, is published at [reproducibility/](reproducibility/). Its internal folder structure is preserved:
 
 | Path | Contents |
 | --- | --- |
-| `report/` | Final research PDF |
-| `experiment/` | Frozen claims, normalized evidence, initial proof proposals, two matchers, scorer, 88 predictions |
-| `evaluation/` | Audited working annotations, outcomes, failure analysis, rescoring script |
-| `source_html/` | Two locally saved BLS release HTML files |
-| `audit/` | Source checks, known metadata defects, author visual-audit records |
-| `MANIFEST_SHA256.txt` | Per-file SHA-256 fingerprints |
-| `README.md` (archive) | Detailed rerun instructions and historical-file notes |
+| [`report/`](reproducibility/report/) | Final research PDF |
+| [`experiment/`](reproducibility/experiment/) | Frozen claims, normalized evidence, initial proof proposals, two matchers, scorer, 88 predictions |
+| [`evaluation/`](reproducibility/evaluation/) | Audited working annotations, outcomes, failure analysis, rescoring script |
+| [`source_html/`](reproducibility/source_html/) | Two locally saved BLS release HTML files |
+| [`audit/`](reproducibility/audit/) | Source checks, known metadata defects, author visual-audit records |
+| [`MANIFEST_SHA256.txt`](reproducibility/MANIFEST_SHA256.txt) | Per-file SHA-256 fingerprints |
+| [`README.md` (archive)](reproducibility/README.md) | Detailed rerun instructions and historical-file notes |
 
 **Re-running:** Extract the archive, copy `experiment/` to a scratch directory, and run `python compare_matchers.py` from within that copied directory. For audited rescoring, run `evaluation/audit_and_rescore.py` in a *separate* scratch directory with copies of `lesson4_matcher_input_frozen.csv`, `lesson4_evidence_normalized_draft.csv`, `gold_main_proposed.csv`, and `matcher_predictions.csv`. Python 3 standard library is sufficient for those scripts. Check generated files against the archive's manifest; do not overwrite the frozen inputs.
 
@@ -75,4 +75,4 @@ An LLM assisted with claim splitting, proposed proof annotations, Python impleme
 - [BLS Employment Situation — October 2026 (released November 6, 2026)](https://www.bls.gov/news.release/archives/empsit_11062026.htm)
 - [BLS Employment Situation — September 2026 (released October 2, 2026)](https://www.bls.gov/news.release/archives/empsit_10022026.htm)
 
-See the research PDF (when uploaded) for the full references, scoring definitions, audit limitations, and examples of structured evidence links.
+See the [final research PDF](reproducibility/report/Apart_Epistemics_Track2_Hashirigaki_Final.pdf) for the full references, scoring definitions, audit limitations, and examples of structured evidence links.

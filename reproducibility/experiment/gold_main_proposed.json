@@ -1,0 +1,398 @@
+[
+  {
+    "claim_id": "CLAIM-004",
+    "claim_text": "The unemployment rate has remained in a narrow range of 4.1 percent to 4.3 percent since March.",
+    "gold_label": "OUT_OF_CORPUS",
+    "accepted_evidence_groups": "[]",
+    "derivation": "The two releases do not supply monthly unemployment rates back to March 2026; the full since-March range cannot be audited.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-005",
+    "claim_text": "In October, unemployment rate by group: adult men (3.9 percent).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R14:C5\"]]",
+    "derivation": "October 2026 unemployment rate in named demographic group; percent as printed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-006",
+    "claim_text": "In October, unemployment rate by group: adult women (3.6 percent).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R15:C5\"]]",
+    "derivation": "October 2026 unemployment rate in named demographic group; percent as printed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-007",
+    "claim_text": "In October, unemployment rate by group: teenagers (13.9 percent).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R16:C5\"]]",
+    "derivation": "October 2026 unemployment rate in named demographic group; percent as printed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-008",
+    "claim_text": "In October, unemployment rate by group: White (3.7 percent).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R17:C5\"]]",
+    "derivation": "October 2026 unemployment rate in named demographic group; percent as printed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-009",
+    "claim_text": "In October, unemployment rate by group: Black (6.6 percent).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R18:C5\"]]",
+    "derivation": "October 2026 unemployment rate in named demographic group; percent as printed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-010",
+    "claim_text": "In October, unemployment rate by group: Asian (2.8 percent).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R19:C5\"]]",
+    "derivation": "October 2026 unemployment rate in named demographic group; percent as printed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-011",
+    "claim_text": "In October, unemployment rate by group: Hispanic (4.7 percent).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R20:C5\"]]",
+    "derivation": "October 2026 unemployment rate in named demographic group; percent as printed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-012",
+    "claim_text": "The number of long-term unemployed (those jobless for 27 weeks or more), at 2.0 million, changed little over the month.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_a09:R8:C10\"]]",
+    "derivation": "1,963,000 rounds to 2.0 million; qualitative changed-little phrasing not separately tested.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-013",
+    "claim_text": "The long-term unemployed accounted for 27.6 percent of all unemployed people.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_a09:R18:C10\"]]",
+    "derivation": "October 2026 seasonally adjusted percent distribution, 27 weeks or more: 27.6 percent.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-014",
+    "claim_text": "In October, the labor force participation rate, at 61.9 percent changed little.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R5:C5\"]]",
+    "derivation": "October 2026 participation rate: 61.9 percent.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-015",
+    "claim_text": "In October, the employment-population ratio, at 59.3 percent changed little.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R7:C5\"], [\"2026-11-06:cps_empsit_a01:R8:C10\"]]",
+    "derivation": "October 2026 employment-population ratio: 59.3 percent.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-016",
+    "claim_text": "The number of people employed part time for economic reasons increased by 339,000 to 4.8 million in October.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R41:C5\", \"2026-11-06:cps_empsit_sum:R41:C6\"], [\"2026-11-06:cps_empsit_sum:R41:C4\", \"2026-11-06:cps_empsit_sum:R41:C5\"]]",
+    "derivation": "Level=4,840,000, month-over-month change=339,000; 4.8 million is reported rounding.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-017",
+    "claim_text": "In October, the number of people not in the labor force who currently want a job changed little at 6.0 million.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_a01:R12:C10\"]]",
+    "derivation": "October 2026 seasonally adjusted, 6,024,000 rounds to 6.0 million.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-018",
+    "claim_text": "Among those not in the labor force who wanted a job, the number of people marginally attached to the labor force changed little at 1.6 million in October.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R47:C5\"]]",
+    "derivation": "October 2026 marginally attached, 1,639,000 rounds to 1.6 million.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-019",
+    "claim_text": "The number of discouraged workers, a subset of the marginally attached who believed that no jobs were available for them, also changed little over the month at 448,000.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:cps_empsit_sum:R48:C5\"]]",
+    "derivation": "October 2026 discouraged workers: 448,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-020",
+    "claim_text": "Total nonfarm payroll employment had an average monthly gain of 48,000 over the prior 12 months.",
+    "gold_label": "OUT_OF_CORPUS",
+    "accepted_evidence_groups": "[]",
+    "derivation": "No monthly series covering the prior 12 months in fixed tables; a 12-month average cannot be reconstructed.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-021",
+    "claim_text": "Employment in professional and business services increased by 70,000 in October.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table10:R19:C5\"], [\"2026-11-06:ces_table1:R122:C10\"]]",
+    "derivation": "Professional and business services over-the-month job change 70,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-022",
+    "claim_text": "Employment in professional and business services: average monthly gain of 15,000 over the prior 12 months.",
+    "gold_label": "OUT_OF_CORPUS",
+    "accepted_evidence_groups": "[]",
+    "derivation": "Prior 12 individual monthly professional/business services changes are absent.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-023",
+    "claim_text": "In October, employment continued to trend up in professional, scientific, and technical services (+33,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R123:C10\"]]",
+    "derivation": "32,900 employment change rounds to 33,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-024",
+    "claim_text": "In October, employment continued to trend up in administrative and support and waste management and remediation services (+28,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R134:C10\"]]",
+    "derivation": "28,100 employment change rounds to 28,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-025",
+    "claim_text": "In October, employment continued to trend up in management of companies and enterprises (+9,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R133:C10\"]]",
+    "derivation": "8,700 employment change rounds to 9,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-026",
+    "claim_text": "Professional and business services has added 269,000 jobs since a recent low in October 2025.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R122:C6\", \"2026-11-06:ces_table1:R122:C9\"]]",
+    "derivation": "Seasonally adjusted October 2025=22,335,000; October 2026=22,604,000; difference 269,000. The qualitative recent-low assertion is not evaluated.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-027",
+    "claim_text": "Health care added 42,000 jobs in October.",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R150:C10\"]]",
+    "derivation": "41,600 health-care jobs rounds to 42,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-028",
+    "claim_text": "Health care employment: average monthly gain of 31,000 over the prior 12 months.",
+    "gold_label": "OUT_OF_CORPUS",
+    "accepted_evidence_groups": "[]",
+    "derivation": "Prior 12 individual monthly health-care changes are absent.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-029",
+    "claim_text": "In October, employment gains occurred in hospitals (+16,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R159:C10\"]]",
+    "derivation": "Hospital jobs +16,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-030",
+    "claim_text": "In October, employment gains occurred in home health care services (+11,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R157:C10\"]]",
+    "derivation": "Home health care +10,500 rounds half-up to +11,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-031",
+    "claim_text": "In October, employment gains occurred in outpatient care centers (+5,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R155:C10\"]]",
+    "derivation": "Outpatient care centers +4,800 rounds to +5,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-033",
+    "claim_text": "In October, transportation and warehousing growth included couriers and messengers (+17,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R94:C10\"]]",
+    "derivation": "Couriers and messengers +17,400 rounds to +17,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-034",
+    "claim_text": "In October, transportation and warehousing growth included air transportation (+4,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R86:C10\"]]",
+    "derivation": "Air transportation +3,500 rounds half-up to +4,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-035",
+    "claim_text": "Transportation and warehousing added 104,000 jobs since a recent employment low in February.",
+    "gold_label": "OUT_OF_CORPUS",
+    "accepted_evidence_groups": "[]",
+    "derivation": "No February 2026 reference month in the eligible tables; cumulative gain from February is unobservable.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-036",
+    "claim_text": "Since February, transportation and warehousing gains included couriers and messengers (+71,000).",
+    "gold_label": "OUT_OF_CORPUS",
+    "accepted_evidence_groups": "[]",
+    "derivation": "No February 2026 reference month in the eligible tables; cumulative couriers gain is unobservable.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-037",
+    "claim_text": "Manufacturing employment continued to trend up in October (+19,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table10:R8:C5\"], [\"2026-11-06:ces_table1:R26:C10\"]]",
+    "derivation": "Manufacturing October 2026 monthly employment change +19,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-038",
+    "claim_text": "Manufacturing employment has increased by 101,000 since a recent low in December 2025.",
+    "gold_label": "OUT_OF_CORPUS",
+    "accepted_evidence_groups": "[]",
+    "derivation": "No December 2025 reference month in eligible tables; cumulative gain from December is unobservable.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-039",
+    "claim_text": "In October, job gains occurred in computer and electronic product manufacturing (+7,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R34:C10\"]]",
+    "derivation": "Computer and electronic products +6,700 rounds to +7,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-040",
+    "claim_text": "In October, job gains occurred in machinery manufacturing (+4,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R33:C10\"]]",
+    "derivation": "Machinery manufacturing +3,900 rounds to +4,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-041",
+    "claim_text": "In October, job gains occurred in primary metal manufacturing (+4,000).",
+    "gold_label": "DIRECT",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table1:R31:C10\"]]",
+    "derivation": "Primary metal manufacturing +3,700 rounds to +4,000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-043",
+    "claim_text": "Over the past 12 months, average hourly earnings have increased by 3.1 percent.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table3:R3:C2\", \"2026-11-06:ces_table3:R3:C5\"]]",
+    "derivation": "From $36.85 Oct 2025 to $38.00 Oct 2026: +3.1208%, reported +3.1%.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-044",
+    "claim_text": "In October, average hourly earnings of private-sector production and nonsupervisory employees rose by 12 cents, or 0.4 percent, to $32.75.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table8:R3:C4\", \"2026-11-06:ces_table8:R3:C5\"]]",
+    "derivation": "From $32.63 to $32.75: +$0.12; +0.3678% rounds to 0.4%.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-045",
+    "claim_text": "The average workweek for all employees on private nonfarm payrolls remained at 34.4 hours in October.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table2:R3:C4\", \"2026-11-06:ces_table2:R3:C5\"]]",
+    "derivation": "September and October private average workweek both 34.4 hours.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-046",
+    "claim_text": "In October, the manufacturing average workweek was unchanged at 40.5 hours.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table2:R7:C4\", \"2026-11-06:ces_table2:R7:C5\"]]",
+    "derivation": "September and October manufacturing average workweek both 40.5 hours.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-047",
+    "claim_text": "In October, manufacturing overtime edged up by 0.1 hour to 3.1 hours.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table2:R24:C4\", \"2026-11-06:ces_table2:R24:C5\"]]",
+    "derivation": "Manufacturing overtime from 3.0 to 3.1 hours.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-048",
+    "claim_text": "The average workweek for production and nonsupervisory employees on private nonfarm payrolls declined by 0.1 hour to 33.8 hours.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-11-06:ces_table7:R3:C4\", \"2026-11-06:ces_table7:R3:C5\"]]",
+    "derivation": "Production and nonsupervisory average workweek: 33.9 to 33.8 hours.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  },
+  {
+    "claim_id": "CLAIM-051",
+    "claim_text": "With these revisions, employment in August and September combined is 84,000 higher than previously reported.",
+    "gold_label": "DERIVED",
+    "accepted_evidence_groups": "[[\"2026-10-02:ces_table10:R3:C4\", \"2026-11-06:ces_table10:R3:C3\", \"2026-10-02:ces_table10:R3:C5\", \"2026-11-06:ces_table10:R3:C4\"]]",
+    "derivation": "August revision 186000-133000=53000; September revision 60000-29000=31000; sum=84000.",
+    "review_status": "PROPOSED_NEEDS_AUDIT",
+    "annotation_note": "Numerical component checked; qualitative qualifiers outside numeric scope where noted."
+  }
+]

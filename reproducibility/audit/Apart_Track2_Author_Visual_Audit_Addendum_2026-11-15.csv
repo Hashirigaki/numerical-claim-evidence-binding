@@ -1,0 +1,10 @@
+﻿claim_id,displayed_source_table,author_review_reason,predicted_and_gold_cells_visually_located,exhaustive_alternative_proof_review,notes
+CLAIM-004,"Table A-1, both editions",YES_SUBSTANTIVE_ONLY,NOT_SHOWN_EXACT_PREDICTED_CELL,NO,Since-March interval not established by May-Oct A-1 columns; October-only link inadequate
+CLAIM-005,"Summary table A, Nov 6",YES,YES,NO,September and October adult men 3.9%; wrong period
+CLAIM-012,"Table A-12, Nov 6",YES,YES,NO,August less-than-5-weeks 2000 vs October 27+ weeks 1963 (thousand)
+CLAIM-027,"Table B-1 and Summary B, Nov 6",YES,YES,NO,Health care 41.6 vs Aug leisure/hospitality 42 (thousand)
+CLAIM-039,"Table B-1 and Summary B, Nov 6",YES,YES,NO,Computer/electronic 6.7 vs financial activities 7 (thousand)
+CLAIM-043,"Tables B-3 and B-2, Nov 6",YES,YES,NO,Average hourly earnings 36.85 to 38 vs overtime 3.1 hours
+CLAIM-044,"Table B-8, Nov 6",YES,YES,NO,Sep 32.63 + Oct 32.75 required; Oct only incomplete
+CLAIM-051,Summary B both editions and B-1 Nov 6,YES,YES,NO,"Aug 133 to 186, Sep 29 to 60; 84 thousand revision"
+CLAIM-008,"Summary table A, Nov 6",YES,YES,NO,White group Aug and Oct both 3.7; wrong period

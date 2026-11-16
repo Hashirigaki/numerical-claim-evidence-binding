@@ -1,0 +1,9 @@
+﻿release,table_id,row,col,saved_html_row_label,saved_html_raw_value,reason,candidate_evidence_id
+2026-10-02,ces_table6,2,2,Total private,"110,060",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-10-02:ces_table6:R2:C2
+2026-10-02,ces_table6,2,3,Total private,"110,581",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-10-02:ces_table6:R2:C3
+2026-10-02,ces_table6,2,4,Total private,"110,721",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-10-02:ces_table6:R2:C4
+2026-10-02,ces_table6,2,5,Total private,"110,737",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-10-02:ces_table6:R2:C5
+2026-11-06,ces_table6,2,2,Total private,"109,849",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-11-06:ces_table6:R2:C2
+2026-11-06,ces_table6,2,3,Total private,"110,760",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-11-06:ces_table6:R2:C3
+2026-11-06,ces_table6,2,4,Total private,"110,773",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-11-06:ces_table6:R2:C4
+2026-11-06,ces_table6,2,5,Total private,"110,894",EXTRACTED_CSV_MISSING_ELIGIBLE_DATA_CELL,2026-11-06:ces_table6:R2:C5

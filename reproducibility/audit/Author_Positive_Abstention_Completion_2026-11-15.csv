@@ -1,0 +1,9 @@
+claim_id,audited_outcome,author_visual_check_date_jst,checked_scope,author_reported_finding,discrepancy_observed,interpretation_limit
+CLAIM-006,CORRECT_LINK,2026-11-15,November 6 BLS Summary table A; October 2026 rate,Adult women October 2026 unemployment rate: 3.6%.,NO,Numerical link supported by source cell.
+CLAIM-018,CORRECT_LINK,2026-11-15,November 6 BLS Summary table A; October 2026,"Marginally attached: 1,639 thousand, approximately 1.6 million.",NO,Numerical link supported within declared rounding.
+CLAIM-026,CORRECT_LINK,2026-11-15,November 6 BLS Table B-1; Oct 2025 and Oct 2026,"Professional/business services: 22,604 − 22,335 = 269 thousand.",NO,"Numerical calculation supported; qualitative phrase ""recent low"" is outside scoring."
+CLAIM-037,CORRECT_LINK,2026-11-15,November 6 BLS Summary table B; October 2026,Manufacturing October monthly employment change: +19 thousand.,NO,Numerical link supported by source cell.
+CLAIM-040,CORRECT_LINK,2026-11-15,November 6 BLS Table B-1; October 2026 change,"Machinery manufacturing October change: +3.9 thousand, reported approximately +4,000.",NO,Numerical link supported within declared rounding.
+CLAIM-045,CORRECT_LINK,2026-11-15,November 6 BLS Table B-2; September and October 2026,Total private average weekly hours: 34.4 in September and October 2026.,NO,Two-cell proof supported.
+CLAIM-035,CORRECT_ABSTAIN,2026-11-15,Official BLS Table B-1 in both permitted release editions,February 2026 Transportation and warehousing reference level absent from the checked tables.,NO,Checked reference period absent in specified tables; alternative proofs elsewhere were not exhaustively excluded.
+CLAIM-038,CORRECT_ABSTAIN,2026-11-15,Official BLS Table B-1 in both permitted release editions,December 2025 Manufacturing reference level absent from the checked tables.,NO,Checked reference period absent in specified tables; alternative proofs elsewhere were not exhaustively excluded.
